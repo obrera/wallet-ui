@@ -1,5 +1,11 @@
 # @wallet-ui/core
 
+## 4.0.0
+
+### Major Changes
+
+- [#396](https://github.com/wallet-ui/wallet-ui/pull/396) [`1eebc40`](https://github.com/wallet-ui/wallet-ui/commit/1eebc4046573984b9b1666ad7e0865c4fa076bc5) Thanks [@beeman](https://github.com/beeman)! - sign in should return message and signature
+
 ## 3.3.0
 
 ## 3.2.1
